@@ -98,5 +98,5 @@ A full-stack web application built with **Django** and **MySQL** for managing st
 
 ## Author
 
-**Sumit Chauhan**  
+**Bhavanand Chauhan**  
 GitHub: [@Sumitchauhan-IN](https://github.com/Sumitchauhan-IN)
